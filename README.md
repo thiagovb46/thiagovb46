@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Thiago Vasconcelos Braga,
-- 👀 I’m looking for an opportunity to start my dev career,
 - 🌱 I’m currently learning backend with .NET5 and NodeJs to
 - 💞️ You can find me on Linkedin: https://linkedin.com/in/thiagovb46.
 
