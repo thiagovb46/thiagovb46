@@ -1,5 +1,5 @@
 <h3 align="justify"> Opaa, eu sou Thiago Vasconcelos Braga,  atualmente trabalho com .NET 5 como estagiário em desenvolvimento back-end na <a   href="https://www.wlssistemas.com.br"/>WLS Soluções</a>. Meu aprendizado tem sido focado em desenvolvimento back-end de API'S com .NET, mas também estudo outas linguagens como Java Script, TypeScript, Python, entre outras.</h3>
-<div align="center">
+<div align="">
   <a href="https://github.com/thiagovb46">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagovb46&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagovb46&layout=compact&langs_count=7&theme=dracula"/>
