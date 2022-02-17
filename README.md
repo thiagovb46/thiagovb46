@@ -26,7 +26,8 @@
   <a href="https://www.linkedin.com/in/thiagovb46" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
   
-    <h2> Currículo <a href = "https://drive.google.com/drive/folders/1JQOvuYPtO7ZX2Ci-jz9tkFeCBhpsSfHZ" >aqui</a> </h2>
+  <div align="center"> 
+    <h2> Currículo <a href = "https://drive.google.com/drive/folders/1JQOvuYPtO7ZX2Ci-jz9tkFeCBhpsSfHZ" > aqui</a> </h2>
+  </div>
  <div align="center"> 
-  <img src=""/>
  </div>
