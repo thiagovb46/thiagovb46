@@ -1,4 +1,4 @@
-<h2>Opaa, que prazer te ter por aqui, seja bem vindo(a)!</h2> 
+
 <div align="center"> 
   <a href="https://github.com/thiagovb46">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagovb46&layout=compact&langs_count=7&theme=dracula"/>
